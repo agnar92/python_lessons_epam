@@ -1,0 +1,8 @@
+setup.py
+session8_hw.egg-info/PKG-INFO
+session8_hw.egg-info/SOURCES.txt
+session8_hw.egg-info/dependency_links.txt
+session8_hw.egg-info/requires.txt
+session8_hw.egg-info/top_level.txt
+test/__init__.py
+test/test_session8_hw.py
